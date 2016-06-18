@@ -2,6 +2,7 @@ name: Camp New Test Site
 favicon: null
 layout_spectrum: 0.5280543596018106
 typography_spectrum: 0.8356430395506322
+title: Just a test of Camp New
 cta:
   domain: null
   bucket: null
