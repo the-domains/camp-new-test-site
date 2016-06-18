@@ -4,8 +4,15 @@
         <description><![CDATA[Just a test of Camp New]]></description>
         <link>https://thegrid.ai/camp-new-test-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 18 Jun 2016 05:27:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2016 05:27:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/camp-new-test-site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0a4e815-6698-49ac-b1d7-5d73e752dfd4.jpg">]]></description>
+            <link>https://thegrid.ai/camp-new-test-site/35bc1e8c-c318-4f26-bc92-c227d48daa8d/index.html</link>
+            <guid isPermaLink="false">35bc1e8c-c318-4f26-bc92-c227d48daa8d</guid>
+            <pubDate>Sat, 18 Jun 2016 05:27:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/37a44584-2049-4ce9-975e-b22b1fb1355a.jpg">]]></description>
