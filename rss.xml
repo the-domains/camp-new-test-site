@@ -4,21 +4,21 @@
         <description><![CDATA[Just a test of Camp New]]></description>
         <link>https://thegrid.ai/camp-new-test-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 18 Jun 2016 05:28:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2016 05:53:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/camp-new-test-site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0a4e815-6698-49ac-b1d7-5d73e752dfd4.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/camp-new-test-site/35bc1e8c-c318-4f26-bc92-c227d48daa8d/index.html</link>
+            <guid isPermaLink="false">35bc1e8c-c318-4f26-bc92-c227d48daa8d</guid>
+            <pubDate>Sat, 18 Jun 2016 05:53:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1bf9a32d-e5f2-4e09-be6c-95f8ec558a64.jpg">]]></description>
             <link>https://thegrid.ai/camp-new-test-site/714446ed-4dc5-4af2-9f07-874706f2add5/index.html</link>
             <guid isPermaLink="false">714446ed-4dc5-4af2-9f07-874706f2add5</guid>
             <pubDate>Sat, 18 Jun 2016 05:27:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0a4e815-6698-49ac-b1d7-5d73e752dfd4.jpg">]]></description>
-            <link>https://thegrid.ai/camp-new-test-site/35bc1e8c-c318-4f26-bc92-c227d48daa8d/index.html</link>
-            <guid isPermaLink="false">35bc1e8c-c318-4f26-bc92-c227d48daa8d</guid>
-            <pubDate>Sat, 18 Jun 2016 05:27:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
