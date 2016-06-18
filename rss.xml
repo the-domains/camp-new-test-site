@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Just a test of Camp New]]></title>
         <description><![CDATA[Just a test of Camp New]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/camp-new-test-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 18 Jun 2016 05:25:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 18 Jun 2016 05:26:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/camp-new-test-site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc5247f3-1de9-4b51-a872-10eda3daa9da.jpg">]]></description>
+            <link>https://thegrid.ai/camp-new-test-site/0191b474-5e9c-4934-b7da-43df33398dbe/index.html</link>
+            <guid isPermaLink="false">0191b474-5e9c-4934-b7da-43df33398dbe</guid>
+            <pubDate>Sat, 18 Jun 2016 05:26:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/206453d4-004d-4cfc-adb9-cef4ba90ffef.jpg">]]></description>
-            <link>undefinedfun-fun-fun/index.html</link>
+            <link>https://thegrid.ai/camp-new-test-site/fun-fun-fun/index.html</link>
             <guid isPermaLink="false">d359518b-d5a2-4d0b-b58b-4b7caa92b6a9</guid>
             <pubDate>Sat, 18 Jun 2016 05:25:06 GMT</pubDate>
         </item>
